@@ -14,3 +14,7 @@ int main(void){
     uint18_t *corge
     UINT32_T *grault
 }
+
+foo bar(baz){
+    qux quux;
+}
