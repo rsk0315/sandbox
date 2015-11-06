@@ -5,5 +5,8 @@ int main(void){
     foo();
     foo(bar);
     foo(bar;
+    foo bar;
+    foo bar baz;
+    foo bar baz
     return 0;
 }
