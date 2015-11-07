@@ -18,3 +18,5 @@ int main(void){
 foo bar(baz){
     qux quux;
 }
+
+0xFF, 0O123, 0xGF, 0xAL, 0B10, 0b10, 0o50, 0
