@@ -13,6 +13,11 @@ int main(void){
     uint17_t quux
     uint18_t *corge
     UINT32_T *grault
+    uint99_t a
+    uint0_t b
+    uint1_t c
+    uint100_t d
+    uint114514_t e
 }
 
 foo bar(baz){
