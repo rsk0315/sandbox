@@ -21,3 +21,7 @@ Proc a
 "\#{0}12"
 "\\#{0}12"
 '#{0}12'
+`str
+Array([1])
+Array.new
+Float(1)
