@@ -31,3 +31,5 @@ chomp()
 chomp?(8)
 chomp!(8)
 Array
+
+(1).to_f
