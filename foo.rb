@@ -33,3 +33,11 @@ chomp!(8)
 Array
 
 (1).to_f
+
+>>foo
+aa
+foo
+
+>>bar
+aa
+baz
