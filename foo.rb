@@ -11,6 +11,11 @@ Is this commented out.
 =en =end ddd
 =end
 ddd
+BeGIN
+Begin
+TRUE
+true
+True
 
 "##{0}12"
 "\#{0}12"
