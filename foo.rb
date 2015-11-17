@@ -12,4 +12,6 @@ Is this commented out.
 =end
 ddd
 
-"#{0}12"
+"##{0}12"
+"\#{0}12"
+'#{0}12'
