@@ -8,5 +8,7 @@ and or not
 class def alias undef module defined? super yield
 =begin
 Is this commented out.
-=end ddd
+=en =end ddd
 ddd
+
+"#{0}12"
