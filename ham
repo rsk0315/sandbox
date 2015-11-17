@@ -5,6 +5,9 @@ def main():
 
 def __eq__():
     pass
+
+def __aa__():
+    pass
     
 if __name__ == '__main__':
     main()
