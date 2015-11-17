@@ -25,3 +25,5 @@ Proc a
 Array([1])
 Array.new
 Float(1)
+foo.bar.baz
+qux.quux.new
