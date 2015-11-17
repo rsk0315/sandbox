@@ -27,3 +27,6 @@ Array.new
 Float(1)
 foo.bar.baz
 qux.quux.new
+chomp
+chomp?
+chomp!
