@@ -9,7 +9,7 @@ class foo def bar alias undef module defined? super yield
 =begin
 Is this commented out.
 =en =end ddd
-=end
+=end ssss
 ddd
 BeGIN
 Begin
