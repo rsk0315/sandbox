@@ -2,6 +2,9 @@
 
 def main():
     pass
+
+def __eq__():
+    pass
     
 if __name__ == '__main__':
     main()
