@@ -34,10 +34,17 @@ Array
 
 (1).to_f
 
->>foo
+p>>foo
 aa
 foo
 
->>bar
+q = 0
+q>>bar
 aa
 baz
+
+__END__
+a
+b
+c
+
