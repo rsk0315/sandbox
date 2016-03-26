@@ -8,5 +8,7 @@
   ur'\x0\x00\u0000\U00000000\N{LATIN SMALL LETTER A}'
   r'|(?iLmsuxc)(?P<NAME>...)(?P=NAME)(?#COMMENT)'
   r'(?=a)(?!b)(?<=c)(?<!d)(?(id)yes|no)\A\Z\b\B\g<1>\2\D\w\x\y\z'
+  r'[a\-f]'
 )
 '\x00\u0000\U00000000'
+
