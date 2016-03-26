@@ -1,13 +1,18 @@
 #!/usr/bin/env python
 
+import re
+
+
+class SomeClass(object):
+    def __init__(self, arg, *args, **kwargs):
+        self.i = 0
+        self.prog = re.compile(
+            r'a+[^b]|(c)'
+        )
+        self.text = '\0\x1a'
+
 def main():
-    pass
+    print 'Hello, world\n'
 
-def __eq__():
-    pass
-
-def __aa__():
-    pass
-    
 if __name__ == '__main__':
     main()
