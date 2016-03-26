@@ -9,7 +9,7 @@ class SomeClass(object):
         self.prog = re.compile(
             r'a+[^b]|(c)'
         )
-        self.text = '\0\x1a'
+        self.text = ('\0\x1a' r"\x7f")
 
 def main():
     print 'Hello, world\n'
