@@ -3,6 +3,8 @@
 import re
 
 
+CONSTANT = 42
+
 class SomeClass(object):
     def __init__(self, arg, *args, **kwargs):
         self.i = 0
