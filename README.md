@@ -17,3 +17,6 @@ int main() {
   printf("Hello, world.\n");
 }
 ```
+|Table|Table|
+|:-:|:-:|
+|table|table|
